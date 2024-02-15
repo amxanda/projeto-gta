@@ -7,7 +7,7 @@ Projeto: https://amxanda.github.io/projeto-gta/
 
 <h4 align="left">Tecnologias utilizadas</h3>
 <p align="left">
-  <img width="32px" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-  <img width="32px" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width="32px" alt="Javascript" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="48px" alt="HTML5" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  <img width="48px" alt="CSS3" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width="48px" alt="Javascript" title="Javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </p>
